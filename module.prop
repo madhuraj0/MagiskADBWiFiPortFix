@@ -1,0 +1,6 @@
+id=adb_wifi
+name=ADB Wifi Port Fix
+version=1.0
+versionCode=1
+author=madhuraj0
+description=Enables ADB over Wi-Fi on boot with a fixed port 5555
